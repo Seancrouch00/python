@@ -1,3 +1,4 @@
+#template for http + html
 import http.server
 import socketserver
 class MyHttpRequestHandler(http.server.SimpleHTTPRequestHandler):
